@@ -1,0 +1,50 @@
+Instruções de Uso
+
+Designer: 
+Carolina Lovatto Biasuz	
+Contato: carolinalovattobiasuz@gmail.com
+
+
+1) As pastas são organizadas por formatos e os arquivos por cor e. 
+Há dois diferentes tipos de arquivo para cada versão:
+
+	- SVG: Vetorial, escalável, editável e otimizado para web;
+	- PNG: Rasterizado, de uso corriqueiro.
+
+2) A escolha do formato é feita basada nas limitações da área de reprodução:*
+
+     No_Sub: 
+	- Para reprodução pequena onde a legibilidade do nome por extenso seja comprometida;
+	- Na ausência de necessidade de apresentação do nome por extenso/conhecimento prévio da marca;
+
+     Vertical:
+	- Para uso em situações de espaço horizontal limitado;
+
+     Horizontal Versão1:
+	- Para espaço em situações de espaço vertical limitado;
+
+     Horizontal Versão2:
+	- Razão de comprimento e altura mais próxima do convencional,
+ 	portanto a opção mais adequada em diversos usos.
+
+	* Os arquivos "Faca" tratam-se do contorno uniforme da mancha gráfica e podem ser 
+	necessários em situações de adaptação da marca para o tridimensional, tendo sua 
+	utilidade principalmente no corte a lazer.
+
+2) A escolha cromática feita basada nas limitações da área de reprodução**
+
+	Colorida: Versão Principal, usada em fundos brancos ou de contraste semelhante;
+
+	Colorida Versão 2: Recomendada apenas para o uso com á cor de fundo disponível no arquivo;
+
+	Monocromática: Garante o contraste em reprodução em escala de cinza, como em impressões;
+
+	Monocromática Versão 2: Versão invertida da Mono, para fundos escuros;
+
+	Stencil: Para situações de limitação de uso de cores, como fundos dinâmicos e reprodução analógica;
+
+	Stencil Versão 2: Versão invertida da Stencil, para fundos escuros.
+
+	**Quaisquer variações cromáticas podem ser geradas através do arquivos vetoriais Os modelos 
+	disponibilizados são as versões de uso mais frequente e são as mais recomendadas para garantir 
+	a consistência visual da marca
