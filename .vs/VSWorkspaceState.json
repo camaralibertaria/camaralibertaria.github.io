@@ -3,7 +3,10 @@
     "",
     "\\css",
     "\\documents",
-    "\\img"
+    "\\img",
+    "\\img\\logos",
+    "\\img\\team"
   ],
+  "SelectedNode": "\\img\\team",
   "PreviewInSolutionExplorer": false
 }
