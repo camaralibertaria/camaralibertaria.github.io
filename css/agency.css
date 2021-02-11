@@ -1,6 +1,6 @@
 /*!
- * Start Bootstrap - Agency v5.2.2 (https://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2020 Start Bootstrap
+ * Start Bootstrap - CLAA - Câmara Libertária de Acordos e Arbitragens v5.2.2 (https://camaralibertaria.com.br/)
+ * Copyright 2013-2021 Brad Hick (https://github.com/BradHick)
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
@@ -23,6 +23,10 @@ a:hover {
 
 .text-primary {
   color: #2980b9 !important;
+}
+
+.justified {
+  text-align: justify;
 }
 
 h1,
