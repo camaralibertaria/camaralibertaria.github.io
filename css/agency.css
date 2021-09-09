@@ -182,6 +182,7 @@ header.masthead {
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
+  height: 100vh;
 }
 
 header.masthead .intro-text {
