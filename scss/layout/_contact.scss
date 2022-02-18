@@ -49,7 +49,9 @@ section#contact {
 
 @media (min-width: 360px) {
   .btn-xl {
-    font-size: 18px;
+    font-size: 14px;
     padding: 15px 20px;
+    word-wrap: break-word;
+    word-break: break-all;
   }
 }
